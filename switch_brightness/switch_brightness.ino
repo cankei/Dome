@@ -1,3 +1,5 @@
+// dip switch brightness 
+
 // Arduino pins used for the LEDs
 #define LED1 13
 #define LED2 12
